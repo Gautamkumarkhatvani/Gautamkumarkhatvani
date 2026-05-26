@@ -1,5 +1,5 @@
 # 💫 About Me:
-# # 👋 Hi, I'm Gautam Kumar Khatvani
+##  Hi, I'm GautamKumar Khatvani
 
 🎓 MCA Graduate passionate about Software Development and Problem Solving.
 💻 Skilled in Python, MERN Stack, Data Structures & Algorithms, Object-Oriented Programming, DBMS, and Core Computer Science concepts.
@@ -47,11 +47,3 @@ I enjoy turning complex problems into clean, efficient, and user-friendly soluti
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gautamkumarkhatvani&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Gautamkumarkhatvani&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
